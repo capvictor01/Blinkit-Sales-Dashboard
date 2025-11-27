@@ -60,7 +60,7 @@ Blinkit-Sales-Dashboard/
 ---
 
 ## 🖼 Dashboard Preview
-(Add your screenshot here once uploaded.)
+![Dashboard Screenshot](images/dashboard.png)
 
 ---
 
