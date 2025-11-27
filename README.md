@@ -47,17 +47,15 @@ This project is an interactive **Power BI dashboard** built using Blinkit sales 
 ---
 
 ## 📁 Project Structure
+
+```
 Blinkit-Sales-Dashboard/
-│
-├── VICTOR.pbix
-├── README.md
-├── images/
-│ └── dashboard.png (optional screenshot)
-└── dataset/
-└── blinkit_data.csv (optional if allowed)
+│── images/
+│     └── dashboard.png
+│── README.md
+│── VICTOR.pbix
+```
 
-
----
 
 ## 🖼 Dashboard Preview
 ![Dashboard Screenshot](images/dashboard.png)
